@@ -1,0 +1,1325 @@
+{
+	"result_code": 0,
+	"message": "성공",
+	"response_time": "2022-10-14 11:42:00",
+	"result": {
+		"layout": [{
+			"uid": 1,
+			"type": "TOP",
+			"banner_data": {
+				"type": "local",
+				"view_type": "square_view",
+				"reference_key": "page/reference/0/1/1/F/IOS",
+				"additional": ["TOP"]
+			},
+			"display_ad": {
+				"trevi_uid": "6819ef309232e5e34c2d4d5de0171488",
+				"moment_uid": "DAN-OzkX0nDPtOP6UEKN",
+				"section_uid": "S1",
+				"banner_uid": "S1"
+			},
+			"strategy_data": {
+				"type": "local",
+				"view_type": "strategy_view",
+				"reference_key": "page/reference/0/1/0/F/IOS",
+				"additional": ["TOP"]
+			}
+		}, {
+			"uid": 2,
+			"type": "ONAIR",
+			"banner_data": {
+				"type": "local",
+				"view_type": "rectangle_view",
+				"reference_key": "page/reference/0/2/1/F/IOS",
+				"additional": ["ONAIR"]
+			}
+		}, {
+			"uid": 24,
+			"type": "SCROLL_THEME",
+			"title": "이달의 삼다무-웹툰",
+			"view_data": {
+				"type": "local",
+				"view_type": "series_card_view",
+				"reference_key": "page/reference/0/24/0/F/IOS",
+				"additional": ["SCROLL_THEME"]
+			},
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 466,
+			"type": "SCROLL_THEME",
+			"title": "이달의 삼다무-웹소설",
+			"view_data": {
+				"type": "local",
+				"view_type": "series_card_view",
+				"reference_key": "page/reference/0/466/0/F/IOS",
+				"additional": ["SCROLL_THEME"]
+			},
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 26,
+			"type": "RECENT_VIEWED",
+			"title": "밀리언 페이지",
+			"view_data": {
+				"type": "local",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/26/0/F/IOS",
+				"additional": ["RECENT_VIEWED"]
+			},
+			"is_depend_on_logged_in": true
+		}, {
+			"uid": 467,
+			"type": "THEME",
+			"title": "HOT! 신작 웹툰",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/467/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":1015}"]
+			},
+			"meta_info_type": "AUTHOR_NAME"
+		}, {
+			"uid": 465,
+			"type": "THEME",
+			"title": "HOT! 신작 웹소설",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/465/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":989}"]
+			},
+			"meta_info_type": "AUTHOR_NAME"
+		}, {
+			"uid": 434,
+			"type": "THEME",
+			"title": "삼다무-3시간마다무료 웹툰",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/landing/507",
+				"additional": ["THEME", "{\"cardSetUid\":766}"]
+			},
+			"scheme": "kakaopage://open/landing/series/poster?reference=page/landing/507",
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 436,
+			"type": "THEME",
+			"title": "삼다무-3시간마다무료 웹소설",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/436/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":781}"]
+			},
+			"scheme": "kakaopage://open/landing/series/list?reference=page%2Flanding%2F517",
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 318,
+			"type": "THEME",
+			"title": "무료 웹툰",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/318/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":291}"]
+			},
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 317,
+			"type": "THEME",
+			"title": "오늘의 추천 웹소설",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/317/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":386}"]
+			},
+			"meta_info_type": "AUTHOR_NAME"
+		}, {
+			"uid": 316,
+			"type": "THEME",
+			"title": "오늘의 추천 웹툰",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/316/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":397}"]
+			},
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 392,
+			"type": "THEME",
+			"title": "레전드패스 웹툰",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/392/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":411}"]
+			},
+			"scheme": "kakaopage://open/waitfree_plus?category_uid=10",
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 393,
+			"type": "THEME",
+			"title": "레전드패스 웹소설",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/393/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":780}"]
+			},
+			"scheme": "kakaopage://open/waitfree_plus?category_uid=11",
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 27,
+			"type": "MAIN_RANKING",
+			"title": "실시간 랭킹",
+			"tab_list": [{
+				"title": "웹툰",
+				"tab_uid": 10,
+				"view_data": {
+					"type": "ref",
+					"view_type": "series_list_view",
+					"reference_key": "page/reference/0/27/0/10/F/IOS",
+					"additional": ["MAIN_RANKING", "{\"rankingType\":\"hourly\",\"categoryId\":10}"]
+				},
+				"scheme": "kakaopage://open/landing/ranking?category_uid=10&ranking_type=hourly",
+				"additional_string": "2022.10.14 11:00"
+			}, {
+				"title": "웹소설",
+				"tab_uid": 11,
+				"view_data": {
+					"type": "ref",
+					"view_type": "series_list_view",
+					"reference_key": "page/reference/0/27/0/11/F/IOS",
+					"additional": ["MAIN_RANKING", "{\"rankingType\":\"hourly\",\"categoryId\":11}"]
+				},
+				"scheme": "kakaopage://open/landing/ranking?category_uid=11&ranking_type=hourly",
+				"additional_string": "2022.10.14 11:00"
+			}],
+			"scheme": "kakaopage://open/landing/ranking?category_uid=0&ranking_type=hourly"
+		}, {
+			"uid": 31,
+			"type": "CASHFRIENDS_AD",
+			"title": "지금 획득 가능한 캐시",
+			"scheme": "kakaopage://open/cashfriends",
+			"display_ad": {
+				"trevi_uid": "6bb082769cba0dd21102b5eb65385d52",
+				"moment_uid": "",
+				"section_uid": "S31",
+				"banner_uid": "S31"
+			}
+		}, {
+			"uid": 376,
+			"type": "BIG_BANNER",
+			"title": "채팅소설 TOP",
+			"banner_data": {
+				"type": "ref",
+				"view_type": "rectangle_view",
+				"reference_key": "page/reference/0/376/1/F/IOS",
+				"additional": ["BIG_BANNER"]
+			}
+		}, {
+			"uid": 375,
+			"type": "THEME",
+			"title": "채팅소설 추천작",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/375/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":1004}"]
+			},
+			"scheme": "kakaopage://open/landing/series/poster?reference=page%2Flanding%2F240",
+			"meta_info_type": "ISSUE_STATUS"
+		}, {
+			"uid": 462,
+			"type": "BIG_BANNER",
+			"title": "절찬리 이벤트 중!",
+			"banner_data": {
+				"type": "ref",
+				"view_type": "rectangle_view",
+				"reference_key": "page/reference/0/462/1/F/IOS",
+				"additional": ["BIG_BANNER"]
+			}
+		}, {
+			"uid": 319,
+			"type": "THEME",
+			"title": "무료 웹소설",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/319/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":380}"]
+			},
+			"meta_info_type": "AUTHOR_NAME"
+		}, {
+			"uid": 395,
+			"type": "THEME",
+			"title": "신작 웹툰 베스트",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/395/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":520}"]
+			},
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 396,
+			"type": "THEME",
+			"title": "신작 웹소설 베스트",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/396/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":423}"]
+			},
+			"meta_info_type": "AUTHOR_NAME"
+		}, {
+			"uid": 380,
+			"type": "THEME",
+			"title": "최신 완결 웹툰 베스트",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/380/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":364}"]
+			},
+			"meta_info_type": "VIEW_COUNT"
+		}, {
+			"uid": 391,
+			"type": "THEME",
+			"title": "최신 완결 웹소설 베스트",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/391/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":373}"]
+			},
+			"meta_info_type": "AUTHOR_NAME"
+		}, {
+			"uid": 264,
+			"type": "BIG_BANNER",
+			"title": "신작 책 베스트",
+			"banner_data": {
+				"type": "ref",
+				"view_type": "rectangle_view",
+				"reference_key": "page/reference/0/264/1/F/IOS",
+				"additional": ["BIG_BANNER"]
+			}
+		}, {
+			"uid": 33,
+			"type": "THEME",
+			"title": "화제의 베스트셀러",
+			"view_data": {
+				"type": "ref",
+				"view_type": "series_poster_view",
+				"reference_key": "page/reference/0/33/0/F/IOS",
+				"additional": ["THEME", "{\"cardSetUid\":11}"]
+			},
+			"scheme": "kakaopage://open/landing/ranking?category_uid=16&ranking_type=weekly",
+			"meta_info_type": "AUTHOR_NAME"
+		}, {
+			"uid": 34,
+			"type": "EVENT",
+			"title": "놓칠 수 없는 이벤트",
+			"banner_data": {
+				"type": "ref",
+				"view_type": "rectangle_view",
+				"reference_key": "page/reference/0/34/0/F/IOS",
+				"additional": ["EVENT"]
+			},
+			"scheme": "kakaopage://open/landing/event?category_uid=0"
+		}],
+		"reference": {
+			"series_card_view": {
+				"page/reference/0/466/0/F/IOS": [{
+					"series_id": 59178044,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 89,
+					"sub_category": "로맨스",
+					"title": "붉은 황녀",
+					"thumbnail": "bzr21o/hzwBpFRS32/Bq5UBtqO6jzbprmHXKzkpk",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 15,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "이지환",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-13 18:00:19",
+					"service_property": {
+						"view_count": 3823071
+					},
+					"asset_property": {
+						"card_img": "nuQis/hyzTYMHgyC/ugi6kJuPjA2Y5pT7kyeKt1",
+						"card_text_img": "s5Y6e/hzHNAwdCR4/DEi6E0Bmzk7ZUxIMKyPOP0"
+					}
+				}, {
+					"series_id": 52347864,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 86,
+					"sub_category": "판타지",
+					"title": "검술명가 막내아들",
+					"thumbnail": "clhsNt/hzb7wS86iU/youcLvg4JQS9ylFzZJZCiK",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "황제펭귄",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-13 18:00:18",
+					"service_property": {
+						"view_count": 351129734
+					},
+					"asset_property": {
+						"card_img": "bke8vV/hyoXzpSFGj/DMom8NRXWsLZRGqMLw7ytk",
+						"card_text_img": "bgeUOR/hzHNCt2dn1/zhhfhrS7MxTtihuRZ50RS0"
+					}
+				}, {
+					"series_id": 57850880,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 117,
+					"sub_category": "로판",
+					"title": "이 3세는 악역입니다",
+					"thumbnail": "b5eP1E/hzCtgXLlo2/KMSOpfnklqQIYktnnXVux1",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "리샤",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-13 18:00:44",
+					"service_property": {
+						"view_count": 80543453
+					},
+					"asset_property": {
+						"card_img": "bdaBJv/hyoXAoQrnE/v39ohUFomSuCTTfkjwt1k0",
+						"card_text_img": "emWxrh/hzCtbvKpsK/6OTuiJu8c5vnmoUBPqDxGK",
+						"clean_img": "btvLNf/hzHNAjiEtT/9Lk5Yi14vhMPCkgBNWcVl1"
+					}
+				}, {
+					"series_id": 56505778,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 86,
+					"sub_category": "판타지",
+					"title": "천재 궁수의 스트리밍",
+					"thumbnail": "zviN6/hyCQ9Ljojg/7VVW4sLzkGuJwG4LNLPcc1",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "멍멍킴",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-13 17:50:10",
+					"service_property": {
+						"view_count": 97392014
+					},
+					"asset_property": {
+						"card_img": "bkODJo/hzKk0tozGo/he2dp3eGToJ6KdRhlIOuwK",
+						"card_text_img": "yi9hc/hzCs8623xr/q1xcXmMtxxSvwKDyYK0HKK",
+						"clean_img": "bonmZ9/hzMT8VPyYn/xVvMAdqJ0iZmCZ6v0U6uhk"
+					}
+				}, {
+					"series_id": 60198893,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 89,
+					"sub_category": "로맨스",
+					"title": "내일이 없는 시한부 공주라서요",
+					"thumbnail": "cPUVNi/hzmU4YUlpj/Ht8Jl85M2bJVGlzot7vM6k",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "은소로",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-13 18:00:35",
+					"service_property": {
+						"view_count": 3583125
+					},
+					"asset_property": {
+						"card_img": "14Gin/hzKkXpHaKr/TDqyKECApHSairoo8U8s70",
+						"card_text_img": "bz0OIw/hzab6Bz2hC/aVrBbQMeB2mVSckTNMygtk"
+					}
+				}, {
+					"series_id": 47050646,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 86,
+					"sub_category": "판타지",
+					"title": "템빨",
+					"thumbnail": "bdld0F/hzKkZf1wj0/Bs7wLxUR4Jhtl31I2TlkiK",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "박새날",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-12 18:00:35",
+					"service_property": {
+						"view_count": 1055418233
+					},
+					"asset_property": {
+						"card_img": "k8AeD/hyZIa8S8hd/3xcBvk55XzBWbphE6prUck",
+						"card_text_img": "iT0Gp/hzHNxTNsQT/2ECT3HHJ3FmMvOrP6t9In1"
+					}
+				}],
+				"page/reference/0/24/0/F/IOS": [{
+					"series_id": 53190884,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 115,
+					"sub_category": "소년",
+					"title": "도굴왕",
+					"thumbnail": "s7mSk/hzwBkFrqoQ/vUSNxWqp98tQGq44as2D2k",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "윤쓰(REDICE STUDIO),쓰리비투에스,산지직송",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-13 22:00:27",
+					"service_property": {
+						"view_count": 199349854
+					},
+					"asset_property": {
+						"card_img": "RkIyS/hzKkZVwG6I/oZUAGCGkdNrwC4wV2tyYV0",
+						"card_text_img": "djPzbn/hzCtaXTtkN/p8LmkKPStuwhbBH23GJKs1"
+					}
+				}, {
+					"series_id": 56422254,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 69,
+					"sub_category": "로판",
+					"title": "악녀는 마리오네트",
+					"thumbnail": "c4ZNE/hzp2gPL3DY/4EkCKUXWUjTkZGwqr4Gah1",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "정인,망글이,한이림",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-10 22:00:33",
+					"service_property": {
+						"view_count": 51774712
+					},
+					"asset_property": {
+						"card_img": "QgNqe/hzKk1y5BFI/HX44lKTpFMYeaRRKFQ7mp1",
+						"card_text_img": "cw0zcJ/hzCteF0Kp7/IAkuEbq7OyyEtAvVH5K80k",
+						"clean_img": "bIUay8/hzKkZVgugK/wtker4YupGTZcnTSOFa1s0"
+					}
+				}, {
+					"series_id": 57691159,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 121,
+					"sub_category": "로맨스",
+					"title": "이렇게 바보일리 없어",
+					"thumbnail": "c2s4UW/hy41GvgXCu/ro3K91oGCMHPuhtHGkOXLk",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "한지혜,POP",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-07 22:00:27",
+					"service_property": {
+						"view_count": 4413160
+					},
+					"asset_property": {
+						"card_img": "b5VwwK/hzKkShLSK3/taDUXvIibpRPQ4GzyBYKlk",
+						"card_text_img": "cJkAxS/hzHNzYz3JI/3Ffkkyou1hS9r9bxBwqKM1"
+					}
+				}, {
+					"series_id": 59264548,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 115,
+					"sub_category": "소년",
+					"title": "검술명가 막내아들",
+					"thumbnail": "mQGdz/hzp2eZiLuJ/KS8N1KadgGG8a6KmdGNFL1",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "AZI,COBY(Contentslabblue),이제원,황제펭귄",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-08 22:00:23",
+					"service_property": {
+						"view_count": 13000815
+					},
+					"asset_property": {
+						"card_img": "bKFYe0/hyoXAh6ef6/79k8lomK47VheqrZx2FBI0",
+						"card_text_img": "XCbqY/hzHNE6snMs/n9GxkpQDV4E19C6zkMYM0K"
+					}
+				}, {
+					"series_id": 55665002,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 69,
+					"sub_category": "로판",
+					"title": "신데렐라를 곱게 키웠습니다",
+					"thumbnail": "d5PBM/hy41MBzakY/oQ3jfnK0Wf5BjM4VdZ6iQk",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "선셋,키아르네",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-08 22:00:26",
+					"service_property": {
+						"view_count": 24608246
+					},
+					"asset_property": {
+						"card_img": "bI3DSE/hyZIb0Y8N3/4OenxzWRIsNySkLngtSOUK",
+						"card_text_img": "g7F5G/hzHNvaBHUl/vQqiFq7aTMFC3gRDazA2qK",
+						"clean_img": "mn9QY/hzab5v09Ey/0f8TA70qo10tGgzOk5FA71"
+					}
+				}, {
+					"series_id": 48990437,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 115,
+					"sub_category": "소년",
+					"title": "샤크",
+					"thumbnail": "iVdYQ/hzp2nOF0B0/jZ1y87gxDIKwlmgv2MHoP0",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "운(雲),김우섭",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-07 22:00:27",
+					"service_property": {
+						"view_count": 138261544
+					},
+					"asset_property": {
+						"card_img": "dsHd6W/hzab5QkKCC/3xNK4K7CAU2TJT2RpM85ek",
+						"card_text_img": "hGRk9/hzCs9LtavV/9wkxCkX71TcQoNVovAPs5k"
+					}
+				}]
+			},
+			"single_card_view": {},
+			"series_poster_view": {
+				"page/reference/0/26/0/F/IOS": [{
+					"series_id": 50775356,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 86,
+					"sub_category": "판타지",
+					"title": "밥만 먹고 레벨업",
+					"thumbnail": "lbJi7/hyzcKaoZ4V/AUYitsMJHn4l0QyTDZLOS1",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "박민규",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-08-27 18:00:15",
+					"service_property": {
+						"view_count": 258595814
+					},
+					"asset_property": {
+						"card_img": "UpHXO/hzCtdG4Gw5/KQGMkOTAM7HZa3oif0zY6k",
+						"card_text_img": "n4DNm/hzCs77Wobm/vniZmPoYXb5j4mWa0EO6m0",
+						"clean_img": "dbOT4/hzHNAjiYkq/GfcEWBDcbafuE7EBTRP8nK"
+					}
+				}, {
+					"series_id": 50127648,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 89,
+					"sub_category": "로맨스",
+					"title": "사내 맞선",
+					"thumbnail": "b7A8j8/hyfOCvvyPK/yOKdCSZKbs3ilWhcyVpwQ1",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": true,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "N",
+					"series_type": "P",
+					"authors": "해화",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-02-20 22:00:59",
+					"service_property": {
+						"view_count": 44933636
+					},
+					"asset_property": {
+						"card_img": "bj9F5T/hzHND7x4Xl/NvKHsodIserOiUBlgkCI6k",
+						"card_text_img": "bwheYA/hzCtajiSk6/tQ2RblcwokIGEbwgkFO6I0",
+						"clean_img": "S7mpR/hyvQJTfxwL/l5miPuRqBjenDw40Lg7P1k"
+					}
+				}, {
+					"series_id": 50353143,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 86,
+					"sub_category": "판타지",
+					"title": "두 번 사는 랭커",
+					"thumbnail": "rQ4kT/hyZ8Aezxs5/Ut1XCiHmNxnajU9mPjvvC1",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": true,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "사도연",
+					"business_model": "T",
+					"last_slide_added_dt": "2021-08-28 18:00:17",
+					"service_property": {
+						"view_count": 311795253
+					},
+					"asset_property": {
+						"card_img": "xD4mi/hzHNzxjjtd/KCEdYQxVUOlzhSkCV9cGV1",
+						"card_text_img": "mMhno/hzCthiq6y3/HHhUTeZceNHtvbtTrApE51"
+					}
+				}, {
+					"series_id": 53666782,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 69,
+					"sub_category": "로판",
+					"title": "샬롯에게는 다섯 명의 제자가 있다",
+					"thumbnail": "bL3rA1/hzCtfLuPpt/2m7NgLcWqInXOhUJnRpUbk",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "W",
+					"authors": "용용",
+					"business_model": "P",
+					"last_slide_added_dt": "2022-10-12 22:00:10",
+					"service_property": {
+						"view_count": 95053550
+					},
+					"asset_property": {
+						"card_img": "c0K24A/hzHNAQwqii/FCc2hCJVKO2k9jM9KAthl1",
+						"card_text_img": "bP2IFL/hzCtaXTshb/5cqO3uYwtEeNBHKIk2RJ6K"
+					}
+				}, {
+					"series_id": 47495746,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 120,
+					"sub_category": "현판",
+					"title": "닥터 최태수",
+					"thumbnail": "bhMa3y/hyzTXzI4xo/ruOHqz5PVlrWZ9IWcN7sBk",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "N",
+					"series_type": "P",
+					"authors": "조석호",
+					"business_model": "T",
+					"last_slide_added_dt": "2021-05-31 06:00:11",
+					"service_property": {
+						"view_count": 994598395
+					},
+					"asset_property": {
+						"card_img": "s4KKS/hzCtcn5vEq/luG1pp9qT7LFjlhjspIl71",
+						"card_text_img": "bElAe7/hzHNxfoUT2/eKXFEbo0Wn3w6Rm854FbzK"
+					}
+				}, {
+					"series_id": 53216022,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 115,
+					"sub_category": "소년",
+					"title": "묵향 다크레이디",
+					"thumbnail": "fJhlQ/hzhOmjpFzJ/QqTh7BYmWBWkiRXoHLQ0wK",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "이재헌,구깃,전동조",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-09 22:00:33",
+					"service_property": {
+						"view_count": 71055898
+					},
+					"asset_property": {
+						"card_img": "bBS50O/hzCs9knHO4/CKUoVKYUPT5f2Qkr0QqIFk",
+						"card_text_img": "5y9lG/hzHNErQP9a/Fi1VK2EKOswQ2MlMsK2zV1",
+						"clean_img": "KZ3Dw/hzMT7CBBUQ/OZOpI0kRqyllQBqlKgoaSK"
+					}
+				}, {
+					"series_id": 50465822,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 115,
+					"sub_category": "소년",
+					"title": "이차원 용병",
+					"thumbnail": "bZGDFx/hzmU3eOgUo/nXYKhtUVKR36YUKsrQoxG0",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "발로,금호",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-13 22:00:26",
+					"service_property": {
+						"view_count": 39218065
+					},
+					"asset_property": {
+						"card_img": "vFpVV/hzCtcakMbn/WRteyccWP4kOo4duMNt2W0",
+						"card_text_img": "w5YTs/hzHNEL9DnS/5vKcGti44imoVrn93B7KE1",
+						"clean_img": "bzqF1q/hzCs8FOHRL/DMdkuqRUZw4zko1O9zWsck"
+					}
+				}, {
+					"series_id": 56422254,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 69,
+					"sub_category": "로판",
+					"title": "악녀는 마리오네트",
+					"thumbnail": "c4ZNE/hzp2gPL3DY/4EkCKUXWUjTkZGwqr4Gah1",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "정인,망글이,한이림",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-10 22:00:33",
+					"service_property": {
+						"view_count": 51785125
+					},
+					"asset_property": {
+						"card_img": "QgNqe/hzKk1y5BFI/HX44lKTpFMYeaRRKFQ7mp1",
+						"card_text_img": "cw0zcJ/hzCteF0Kp7/IAkuEbq7OyyEtAvVH5K80k",
+						"clean_img": "bIUay8/hzKkZVgugK/wtker4YupGTZcnTSOFa1s0"
+					}
+				}, {
+					"series_id": 53366985,
+					"category_uid": 11,
+					"category": "웹소설",
+					"sub_category_uid": 86,
+					"sub_category": "판타지",
+					"title": "얼어붙은 플레이어의 귀환",
+					"thumbnail": "cQRmcz/hy41NUCmWB/2jkPRtKQQE6U5kgA8h0Ahk",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": true,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "N",
+					"series_type": "P",
+					"authors": "제리엠",
+					"business_model": "T",
+					"last_slide_added_dt": "2021-12-24 18:00:31",
+					"service_property": {
+						"view_count": 188034445
+					},
+					"asset_property": {
+						"card_img": "bccUS7/hzHNFEvayf/b4ivtqHa5KrI1vbhSjpdck",
+						"card_text_img": "cAuFAs/hzHNzddUyM/JgkkEzL02v9cJi2bA7nzxK"
+					}
+				}, {
+					"series_id": 54688834,
+					"category_uid": 10,
+					"category": "웹툰",
+					"sub_category_uid": 69,
+					"sub_category": "로판",
+					"title": "악당의 아빠를 꼬셔라",
+					"thumbnail": "XeA83/hzhOe7fNsJ/o4caQCnWlcXbKAwvob8jEk",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"state": "ST61",
+					"on_issue": "Y",
+					"series_type": "P",
+					"authors": "비아,달슬",
+					"business_model": "T",
+					"last_slide_added_dt": "2022-10-12 22:00:28",
+					"service_property": {
+						"view_count": 70135336
+					},
+					"asset_property": {
+						"card_img": "q6z38/hzHNDGtHvy/WCSP9UBQvGHH0pzLUyVT9k",
+						"card_text_img": "bmCjcv/hzCtajiUO1/g2bcv7oKCmdThLUN7qvG90"
+					}
+				}]
+			},
+			"single_poster_view": {},
+			"series_clean_view": {},
+			"single_clean_view": {},
+			"series_list_view": {},
+			"single_list_view": {},
+			"square_view": {
+				"page/reference/0/1/1/F/IOS": [{
+					"title": "상태창 보는 아기 황녀님",
+					"thumbnail": "4Mlyg/hzKk0GS7L4/7nveUTnP4dkqgOE8XGsHs0",
+					"title_img": "0ZMVT/hyZIbmpGVP/OpJ7NQ5P0h6uzVplE6ssa0",
+					"caption": "신작 런칭 기념, 대박 이벤트!",
+					"scheme": "kakaopage://open/landing/series/list?reference=page%2Flanding%2F703",
+					"category": "웹툰",
+					"category_uid": 10,
+					"sub_category": "로판",
+					"badge": "BT03",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "로지,서리,유리솜사탕",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 60402003,
+						"title": "상태창 보는 아기 황녀님",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 478264
+					},
+					"operator_property": {
+						"banner_uid": 2334,
+						"is_event": true,
+						"is_view_count": true
+					}
+				}, {
+					"title": "어제는 키스까지, 오늘은 키스부터",
+					"thumbnail": "bGcQW0/hzMT31nkXl/WyH0S7opbMkBtY1ASGP6SK",
+					"title_img": "jBedJ/hyRyN1pJpY/te6YelbPtFDohZ2XK1mZxK",
+					"caption": "프러포즈 받아 본 적은 있고?",
+					"scheme": "kakaopage://open/landing/series/list?reference=page%2Flanding%2F691",
+					"category": "웹소설",
+					"category_uid": 11,
+					"sub_category": "로맨스",
+					"badge": "BT03",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 15,
+					"authors": "홍세라",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 60398938,
+						"title": "어제는 키스까지, 오늘은 키스부터",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 117076
+					},
+					"operator_property": {
+						"banner_uid": 2353,
+						"is_event": true,
+						"is_view_count": false
+					}
+				}, {
+					"title": "악역무쌍",
+					"thumbnail": "jcRPF/hynaHDjvBf/ReIT5bWQh2gYHviGwxTk5K",
+					"title_img": "dOxBu1/hzKkZ82vfF/SzDy0B6xqwGWO2tSkrQW6k",
+					"caption": "빙의를 해도 왜 하필 악역인건데?!",
+					"scheme": "kakaopage://open/landing/series/list?reference=page%2Flanding%2F699",
+					"category": "웹툰",
+					"category_uid": 10,
+					"sub_category": "액션무협",
+					"badge": "BT03",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "해경,서현진",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 60297218,
+						"title": "악역무쌍",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 73413
+					},
+					"operator_property": {
+						"banner_uid": 2318,
+						"is_event": true,
+						"is_view_count": false
+					}
+				}, {
+					"title": "예술고 음악천재는 환생한 파가니니",
+					"thumbnail": "VfTDi/hzKkYI7IlC/p3XlK67V2KaPatGO4Y7hN0",
+					"title_img": "oe5gF/hynayzGByi/7FJcPhLPm5kgCjXnMRzAK0",
+					"caption": "3시간마다 무료로 정주행!",
+					"scheme": "kakaopage://open/content?series_id=59308821",
+					"category": "웹소설",
+					"category_uid": 11,
+					"sub_category": "현판",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "카덴차",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 59308821,
+						"title": "예술고 음악천재는 환생한 파가니니",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 7713380
+					},
+					"operator_property": {
+						"banner_uid": 2302,
+						"is_event": false,
+						"is_view_count": false
+					}
+				}, {
+					"title": "내일이 없는 시한부 공주라서요",
+					"thumbnail": "bMj1y1/hzHNCV7GJF/egDKKKkKpwzUlEgHCwsv91",
+					"title_img": "cYLvL/hzMT4MFfNH/Fmk8xDn31LCjdpEMSNBu7K",
+					"caption": "삼다무로 3시간씩 1화 무료 보자!",
+					"scheme": "kakaopage://open/content?series_id=60198893",
+					"category": "웹소설",
+					"category_uid": 11,
+					"sub_category": "로맨스",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "은소로",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 60198893,
+						"title": "내일이 없는 시한부 공주라서요",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 3587076
+					},
+					"operator_property": {
+						"banner_uid": 2359,
+						"is_event": true,
+						"is_view_count": false
+					}
+				}, {
+					"thumbnail": "YTqsC/hyZIcZUAlm/rkOhgBl3uviR0puN0cXzZk",
+					"scheme": "kakaopage://open/webview/event?hash_uid=b42bf3faa001ebaea8d72c9ced98a68f&utm_source=kakaopage&utm_medium=inapp_big_banner&utm_campaign=gr_earlybird_page_221014",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"operator_property": {
+						"banner_uid": 2272,
+						"is_event": false
+					}
+				}, {
+					"title": "두 분은 훗날, 저를 낳습니다",
+					"thumbnail": "LKRO6/hyZIcyS8Ew/HydULwO4ItodInEHw8F7p0",
+					"title_img": "JNAyv/hyoXAh6fwn/Tf1XkeYMslqk05ejXn6Kek",
+					"caption": "기다리던 작품, 기다무+캐시 이벤트!",
+					"scheme": "kakaopage://open/landing/series/list?reference=page%2Flanding%2F698",
+					"category": "웹소설",
+					"category_uid": 11,
+					"sub_category": "로판",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "롹끼",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 57892697,
+						"title": "두 분은 훗날, 저를 낳습니다",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 1890594
+					},
+					"operator_property": {
+						"banner_uid": 2355,
+						"is_event": true,
+						"is_view_count": false
+					}
+				}, {
+					"title": "이 3세는 악역입니다",
+					"thumbnail": "b8a2XJ/hzHNFkBNgR/0Qqcwl8GskbbwDHesPWqkk",
+					"title_img": "Uo6ED/hzMT6RhWjc/qA2KeRjRivOV4DQHK5mtVk",
+					"caption": "삼다무로 즐기면 캐시까지?!",
+					"scheme": "kakaopage://open/content?series_id=57850880",
+					"category": "웹소설",
+					"category_uid": 11,
+					"sub_category": "로판",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "리샤",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 57850880,
+						"title": "이 3세는 악역입니다",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 80553813
+					},
+					"operator_property": {
+						"banner_uid": 2356,
+						"is_event": false,
+						"is_view_count": false
+					}
+				}, {
+					"title": "물드는 시간",
+					"thumbnail": "cHQm17/hynaIa4dTI/9YrQb5v0bOJczdGkZLHFp0",
+					"title_img": "bBxqqL/hzMT4MEmjX/Dpo746WUaYaJG39xpjARH1",
+					"caption": "런칭기념, 캐시+경품 이벤트\uD83D\uDC9A",
+					"scheme": "kakaopage://open/landing/series/poster?reference=page%2Flanding%2F681",
+					"category": "웹툰",
+					"category_uid": 10,
+					"sub_category": "로맨스",
+					"badge": "BT03",
+					"is_all_free": false,
+					"is_waitfree": true,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "윤백,후영,유송주",
+					"business_model": "T",
+					"series_type": "P",
+					"series_property": {
+						"series_id": 60311733,
+						"title": "물드는 시간",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 436659
+					},
+					"operator_property": {
+						"banner_uid": 2328,
+						"is_event": true,
+						"is_view_count": true
+					}
+				}, {
+					"title": "환생표사",
+					"thumbnail": "bMTdlK/hyRyOy00zb/V9KDSV7BSkMPsFLGOcyUkk",
+					"title_img": "bm98GQ/hyZIaOj1Is/XQtUZCxSfl8D3nh2EklIZK",
+					"caption": "바보짓은 다 이 녀석 소행!",
+					"scheme": "kakaopage://open/content?series_id=59787320",
+					"category": "웹툰",
+					"category_uid": 10,
+					"sub_category": "액션무협",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "박신,민용기,신갈나무",
+					"business_model": "P",
+					"series_type": "W",
+					"series_property": {
+						"series_id": 59787320,
+						"title": "환생표사",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 422155
+					},
+					"operator_property": {
+						"banner_uid": 1316,
+						"is_event": false,
+						"is_view_count": true
+					}
+				}, {
+					"title": "살인마의 인터뷰",
+					"thumbnail": "dyawpP/hzmU4dImzv/mct362bv4OCmC4g7pb63B1",
+					"title_img": "cuRrm7/hzKkRQdhAl/kwV62BK28cVqW0VzN7uLdk",
+					"caption": "전설 속 살인마들과 은밀한 공조 수사",
+					"scheme": "kakaopage://open/content?series_id=60009718",
+					"category": "웹툰",
+					"category_uid": 10,
+					"sub_category": "드라마",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 15,
+					"authors": "케란,Tadat,경우勁雨",
+					"business_model": "P",
+					"series_type": "W",
+					"series_property": {
+						"series_id": 60009718,
+						"title": "살인마의 인터뷰",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 118205
+					},
+					"operator_property": {
+						"banner_uid": 1296,
+						"is_event": false,
+						"is_view_count": true
+					}
+				}, {
+					"title": "우리 청춘의 사랑은",
+					"thumbnail": "c28pH/hynaCu80LP/qr6M476PmmkIobXiXbe43k",
+					"title_img": "bPslgJ/hyRyPZf9aM/wc9gnoYASsskN8avxw9hjK",
+					"caption": "코믹 남매들의 달달한 러브스토리!!",
+					"scheme": "kakaopage://open/content?series_id=59600451",
+					"category": "웹툰",
+					"category_uid": 10,
+					"sub_category": "드라마",
+					"badge": "BT02",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"authors": "손달섭",
+					"business_model": "P",
+					"series_type": "W",
+					"series_property": {
+						"series_id": 59600451,
+						"title": "우리 청춘의 사랑은",
+						"is_wait_free": false,
+						"is_wait_free_plus": false
+					},
+					"service_property": {
+						"view_count": 1150042
+					},
+					"operator_property": {
+						"banner_uid": 2308,
+						"is_event": false,
+						"is_view_count": true
+					}
+				}, {
+					"thumbnail": "bf5XtD/hzMUbLOd4v/YxnJPIhfOAyvIHdkkmmTC0",
+					"scheme": "kakaopage://open/webview/event?hash_uid=6bc7e2954cc2fa5f89646fc009bdc052",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"operator_property": {
+						"banner_uid": 2207,
+						"is_event": false
+					}
+				}, {
+					"thumbnail": "nV5Nh/hzKkVFj9Gz/Cu4AUP0KvlRuck9MmDP7JK",
+					"scheme": "kakaopage://open/webview/event?hash_uid=a786e3be8748f2d67637f0d0c4d24f64",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 0,
+					"operator_property": {
+						"banner_uid": 2220,
+						"is_event": false
+					}
+				}]
+			},
+			"rectangle_view": {
+				"page/reference/0/2/1/F/IOS": [{
+					"title": "버추얼 아이돌 데뷔 서바이벌",
+					"thumbnail": "cQbDx/ZSguOd9uiL/bd7KNGaynCYnrkSyKkeCXk",
+					"video_url": "https://tv.kakao.com/v/432552095",
+					"caption": "소녀 리버스 바로 가기 >>",
+					"scheme": "kakaopage://open/webview/event?hash_uid=b42bf3faa001ebaea8d72c9ced98a68f&utm_source=kakaopage&utm_medium=inapp_onair&utm_campaign=gr_earlybird_page_221014",
+					"is_all_free": false,
+					"is_waitfree": false,
+					"is_waitfree_plus": false,
+					"age_grade": 0
+				}]
+			},
+			"strategy_view": {
+				"page/reference/0/1/0/F/IOS": [{
+					"title": "오늘 신작",
+					"scheme": "kakaopage://open/landing/today_new?category_uid=10",
+					"count": 42
+				}, {
+					"title": "삼다무 캐시백",
+					"scheme": "kakaopage://open/webview/event?hash_uid=6bc7e2954cc2fa5f89646fc009bdc052"
+				}, {
+					"title": "무료웹툰 추천작",
+					"scheme": "kakaopage://open/landing/series/list?reference=page%2Flanding%2F571"
+				}]
+			}
+		},
+		"selected_tab_list": [{
+			"uid": 27,
+			"selected_tab_uid": 10,
+			"value": {
+				"10": 10,
+				"11": 11
+			}
+		}]
+	}
+}
